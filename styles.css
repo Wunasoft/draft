@@ -36,12 +36,10 @@
     .mainimage{
         margin :0;
         height:16em;
-        background-image:url('./top1.png'); 
-        background-repeat:none; 
+        background-image:url('./top1.png');
         background-size:cover; 
         background-position:center;
         font-size:25px;
-        text-shadow:3px;
         color:#f1eaee;
         text-align:center;
     }
